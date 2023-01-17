@@ -6,7 +6,7 @@ Goals left to do on this project:
 -Sign up & Sign in functionalities, add to cart, help & contact us page.
 
 ## Live Preview
-[LINK](loading....)
+[LINK](https://63c6de16ced8ed6da7f89886--effervescent-kitten-8aee22.netlify.app/)
 
 ## Technologies:
 - Vue
